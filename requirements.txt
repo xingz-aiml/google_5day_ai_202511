@@ -1,0 +1,13 @@
+# Google Agent Development Kit (ADK) - main dependency
+google-adk>=1.18.0
+
+# Jupyter for running notebooks
+jupyter
+jupyterlab
+notebook
+
+# IPython for interactive features
+ipython
+
+# Additional dependencies that may be needed for specific notebooks
+python-dotenv
