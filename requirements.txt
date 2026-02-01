@@ -1,5 +1,6 @@
 # Google Agent Development Kit (ADK) - main dependency
 google-adk>=1.18.0
+a2a-sdk>=0.3.22
 
 # Jupyter for running notebooks
 jupyter
